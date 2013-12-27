@@ -1,0 +1,22 @@
+{
+  "name": "boredom",
+  "version": "0.0.0",
+  "description": "Another javascript dom helper library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alxarch/boredom.git"
+  },
+  "keywords": [
+    "dom"
+  ],
+  "author": "Alexandros Sigalas <alxarch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxarch/boredom/issues"
+  },
+  "homepage": "https://github.com/alxarch/boredom"
+}
