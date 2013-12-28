@@ -1,6 +1,6 @@
 {
   "name": "boredom",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Another javascript dom helper library.",
   "main": "index.js",
   "scripts": {
